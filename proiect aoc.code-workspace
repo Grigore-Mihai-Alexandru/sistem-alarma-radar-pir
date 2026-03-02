@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "esp32s3-wroom n16r8",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
